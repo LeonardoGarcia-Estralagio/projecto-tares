@@ -1,0 +1,16 @@
+[
+   {
+      "id": "fd148855-92a5-46ed-9609-dca784608522",
+      "clase": 1,
+      "titulo": "Bienvenida",
+      "estado": "en proceso",
+      "fecha": "2023-05-05T22:40:00.126Z"
+   },
+   {
+      "id": "fd148855-92a5-46ed-9609-dca78460852d",
+      "clase": 2,
+      "titulo": "Introducción a Node.js",
+      "estado": "en proceso",
+      "fecha": "2023-05-05T22:40:00.126Z"
+   }
+]
